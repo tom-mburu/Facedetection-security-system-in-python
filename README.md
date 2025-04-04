@@ -1,0 +1,1 @@
+This project uses haar cascade models to track faces of intruders and if any intuder is detected ,the system establishes communication with embedded system that raises alarm,sends email to the owners of intruded area with photos of detected intruders .
